@@ -1,4 +1,4 @@
-﻿using Myshop.Core.Models;
+﻿  using Myshop.Core.Models;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
